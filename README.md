@@ -62,5 +62,11 @@ Built a classification model to predict which customers will churn, prioritizing
 # Install dependencies
 pip install pandas numpy scikit-learn matplotlib seaborn
 
-# Run the model
-python churn_analysis.py
+# Open Jupyter Notebook
+jupyter notebook churn_prediction_analysis.ipynb
+
+## 📧 Contact
+**Anthony Ng**  
+Hong Kong Baptist University | Bachelor of Business Computing & Data Analytics  
+LinkedIn: [your-linkedin-url] | Email: [your-email]
+
