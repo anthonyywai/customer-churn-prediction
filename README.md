@@ -1,5 +1,3 @@
-# customer-churn-prediction
-Machine learning model to predict telecom customer churn
 # Customer Churn Prediction Model
 
 Predicting telecom customer churn to optimize retention strategies and minimize revenue loss.
@@ -45,6 +43,7 @@ Built a classification model to predict which customers will churn, prioritizing
 - **ML Techniques:** Cross-validation, feature engineering, cost-benefit analysis
 
 ## 📊 Visualizations
+
 ### Model Performance Comparison
 ![Model Comparison](model_comparison.png)
 
@@ -54,7 +53,7 @@ Built a classification model to predict which customers will churn, prioritizing
 ### Feature Importance
 ![Feature Importance](feature_importance.png)
 
-### Training set vs Testing set
+### Training vs Testing Performance
 ![Train vs Test](train_vs_test.png)
 
 ## 🚀 How to Run
@@ -64,9 +63,3 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 
 # Open Jupyter Notebook
 jupyter notebook churn_prediction_analysis.ipynb
-
-## 📧 Contact
-**Anthony Ng**  
-Hong Kong Baptist University | Bachelor of Business Computing & Data Analytics  
-LinkedIn: [your-linkedin-url] | Email: [your-email]
-
