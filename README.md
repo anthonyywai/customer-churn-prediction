@@ -45,8 +45,14 @@ Built a classification model to predict which customers will churn, prioritizing
 - **ML Techniques:** Cross-validation, feature engineering, cost-benefit analysis
 
 ## 📊 Visualizations
-_[Upload your chart images here - see instructions below]_
+### Model Performance Comparison
+![Model Comparison](model_comparison.png)
 
+### Confusion Matrices
+![Confusion Matrix](confusion_matrix.png)
+
+### Feature Importance
+![Feature Importance](feature_importance.png)
 ## 🚀 How to Run
 ```bash
 # Install dependencies
