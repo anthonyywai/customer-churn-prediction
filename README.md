@@ -53,6 +53,10 @@ Built a classification model to predict which customers will churn, prioritizing
 
 ### Feature Importance
 ![Feature Importance](feature_importance.png)
+
+### Training set vs Testing set
+![Train vs Test](train_vs_test.png)
+
 ## 🚀 How to Run
 ```bash
 # Install dependencies
